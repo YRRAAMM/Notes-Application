@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../../../../../home/elit/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.2914529914529915" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.212" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_menu_camera.xml" value="0.212" />
+        <entry key="app/src/main/res/drawable/ic_menu_gallery.xml" value="0.212" />
+        <entry key="app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.212" />
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.212" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.23834196891191708" />
+        <entry key="app/src/main/res/layout/activity_note_list.xml" value="0.2794871794871795" />
+        <entry key="app/src/main/res/layout/activity_settings2.xml" value="0.2799145299145299" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.2726894254787677" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/content_main2.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/content_note_list.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/content_settings.xml" value="0.21944444444444444" />
+        <entry key="app/src/main/res/layout/content_settings2.xml" value="0.2914529914529915" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.3546875" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.2811965811965812" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2811965811965812" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.3546875" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.2811965811965812" />
+        <entry key="app/src/main/res/layout/item_Course_list.xml" value="0.14017094017094017" />
+        <entry key="app/src/main/res/layout/item_course_list.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_note_list.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.2811965811965812" />
+        <entry key="app/src/main/res/layout/settings_activity.xml" value="0.16" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.2914529914529915" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.33" />
+        <entry key="app/src/main/res/xml/general.xml" value="0.2905982905982906" />
+        <entry key="app/src/main/res/xml/header_preferences.xml" value="0.1" />
+        <entry key="app/src/main/res/xml/messages_preferences.xml" value="0.33" />
+        <entry key="app/src/main/res/xml/pref_general.xml" value="0.25" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.21944444444444444" />
+        <entry key="app/src/main/res/xml/sync_preferences.xml" value="0.2914529914529915" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
